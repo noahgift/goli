@@ -1,0 +1,2 @@
+# goli
+Go Deduplication Tool
